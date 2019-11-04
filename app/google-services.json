@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1031508567288",
+    "firebase_url": "https://telas-17cdf.firebaseio.com",
+    "project_id": "telas-17cdf",
+    "storage_bucket": "telas-17cdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031508567288:android:415bf276ceccb933",
+        "android_client_info": {
+          "package_name": "com.example.telas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031508567288-co2da8h17fg4e27qtk02goj8tn71pi4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.telas",
+            "certificate_hash": "08d2f2d6ea3daddd71c37991b91f8091d8c19b94"
+          }
+        },
+        {
+          "client_id": "1031508567288-hge8btoi90gthar1cpuutcphcmm391km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6vF_V_9BDjBV3lTAxMkZsScA5bxPNn4U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031508567288-hge8btoi90gthar1cpuutcphcmm391km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

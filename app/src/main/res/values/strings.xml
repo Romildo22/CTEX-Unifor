@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Feira das Profissões</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Titulos das abas -->
+    <string name="aba1">Início</string>
+    <string name="aba2">Cursos</string>
+
+    <!-- Texto da aba1 -->
+    <string name="texto_apresentacao">
+    A feira das profissões da Unifor é o local para você descobrir novos horizontes, tirar suas dúvidas sobre o seu tão sonhado curso
+    e aprender sobre como é estar na universidade.\n\n Nesta edição, teremos palestras, shows, oficinas e workshops totalmente gratuitos.\n\n
+    Fique à vontade para andar pelo Campus e se divertir aprendendo!</string>
+
+    <!-- cursos -->
+    <string name="cc">Ciência da Computação</string>
+    <string name="ads">Análise e Desenvolvimento de Sistemas</string>
+    <string name="ec">Engenharia da Computação</string>
+    <string name="eca">Engenharia de Controle e Automação</string>
+
+    <!-- Titulos das abas cursos -->
+
+    <!-- CC -->
+    <string name="txtCC"> Ciência da Computação </string>
+    <string name="graduacao">Bacharelado</string>
+    <string name="esseCurso"> Esse curso é para quem quer... </string>
+    <string name="txtCC1"> ... trabalhar com projeto e desenvolvimento de software, incluindo aplicações para dispositivos móveis e jogos eletrônicos</string>
+    <string name="txtCC2"> e planeja... </string>
+    <string name="txtCC3"> ... atuar na elaboração autoral de produções gráficas, manutenção do ambiente tecnológico das organizações,
+        gestão de projetos e governança de Tecnologia da Informação (TI). </string>
+
+    <!-- ADS -->
+    <string name="txtads"> Análise e Desenvolvimento de Sistemas </string>
+    <string name="graduacaoADS">Graduação</string>
+    <string name="esseCursoADS"> Esse curso é para quem quer... </string>
+    <string name="txtADS1"> ... desenvolver, analisar, projetar, especificar, implementar e atualizar sistemas computacionais de informação.</string>
+    <string name="txtADS2"> e planeja... </string>
+    <string name="txtADS3"> ...estar apto a implementar soluções científicas, tecnológicas e contribuir para o desenvolvimento da área da computação
+        e a sua aplicação no âmbito das organizações públicas e privadas da sociedade. </string>
+
+    <!-- EC -->
+    <string name="txtEC"> Engenharia da Computação </string>
+    <string name="txtEC1"> … trabalhar com soluções de hardware e software que envolvem as áreas de eletrônica, computação, telecomunicações e automação.</string>
+    <string name="txtEC3"> … atuar no desenvolvimento de sistemas de computação e sistemas embarcados e em projetos e execuções de manutenção de
+        equipamentos e dispositivos de computação e comunicação de dados. </string>
+
+    <!-- ECA -->
+    <string name="txtECA"> Engenharia de Controle e Automação </string>
+    <string name="txtECA1"> … projetar, operar e fazer a manutenção de equipamentos utilizados nos processos automatizados de indústrias em geral.</string>
+    <string name="txtECA3"> … ser capaz de atuar em diversas atividades, como setores industriais, comerciais e de serviços e trabalhar com gerenciamento de
+        projetos de automação, programação de máquinas e adaptação de softwares aos processos industriais </string>
+
+    <string name="inscr"> + Mais informações!!!</string>
+    <string name="matriz"> + Matriz Curricular</string>
+    <string name="prof"> + Professores</string>
+    <string name="invest">   + Investimento</string>
+
+    <!-- Menu -->
+    <string name="idNome">Universidade de Fortaleza</string>
+    <string name="idEmail">Feira das Profissões 2019</string>
+
+    <string name="test1">Android Studio</string>
+    <string name="test2">android.studio@android.com</string>
+
+    <string name="map_key" translatable="false">AIzaSyBIl3R1HjnG3ClcnqIGBazU1QC4t1yivAI</string>
+
+</resources>

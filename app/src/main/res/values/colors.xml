@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#031d72</color>
+    <color name="colorPrimaryDark">#2843A6</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="corToolBar">#031d72</color>
+    <color name="fundo_apresentacao">#0160ad</color>
+    <color name="cinza_medio">#EEEDED</color>
+
+    <color name="corTitulo">#75CBEB</color>
+    <color name="corTxt">#0372CA</color>
+
+    <color name="colorCTex1">#4BB6EF</color>
+    <color name="progress">#42DFC0</color>
+
+    <color name="cor_fundo">#003185</color>
+    <color name="cor_fundo2">#00348A</color>
+
+    <color name="cor_sob">#A1D60B</color>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tela de Carregamento -->
+    <string name="texto_carregamento1">"O Campus da Unifor é imenso!\n\n Possui mais de 720 mil metros quadrados de extensão.\n\n Cuidado para não se perder!!!\n\n Hahahaha"</string>
+    <string name="texto_carregamento2">"O Campus da Universidade de Fortaleza é aberto ao público aos finais de semana.\n\n Aos sábados e domingos, no horário de 8h às 17h."</string>
+    <string name="texto_carregamento3">"O campus da Unifor possui umas vasta variedade de espécies botânicas e animais exóticos espalhados livremente pelo campus."</string>
+    <string name="texto_carregamento4">"A Universidade de Fortaleza\n foi fundada em 23 de março de 1973 pelo chanceler Edson Queiroz."</string>
+    <string name="texto_carregamento5">"A Universidade de Fortaleza\n oferece programas e projetos abrangendo o voluntariado, a educação e a capacitação profissional, permitindo também um campo prático para seus estudantes."</string>
+    <string name="texto_carregamento6">"A Unifor é certificada com o Selo Instituição Socialmente Responsável 2017–2018, concedido pela Associação Brasileira de Mantenedoras de Ensino Superior (ABMES)."</string>
+    <string name="texto_carregamento7">"O Teatro Celina Queiroz é um dos mais importantes palcos do Ceará.\n Possui capacidade para mais de 300 pessoas e foi inaugurado em 2003, é também palco de eventos acadêmicos da Unifor."</string>
+    <string name="texto_carregamento8">"O Espaço Cultural Unifor foi inaugurado em 1988. O espaço já abrigou exposições exclusivas, nacionais e internacionais."</string>
+    <string name="texto_carregamento9"> "O Parque Tecnológico da Unifor(TEC Unifor) foi inaugurado em julho de 2017 tem cerca de 2.000 m² destinados à instalação de empresas com seus setores de Pesquisa Desenvolvimento e Inovação, uma incubadora de empresas"</string>
+
+
+    <string name="textSobre">  O aplicativo Feira das Profissões foi desenvolvido na disciplina de Dispositivos Móveis I, com o intuito de auxiliar os visitantes com a sua experiência pelo Campus da Universidade de Fortaleza.</string>
+    <string name="textProf"> - Bruno Lopes Alcantara Batista </string>
+    <string name="textAlunos"> - Romildo Feliciano de Assis \n- Matheus Juan Bezerra Candido \n- Arthur Uchoa Gomes</string>
+
+</resources>

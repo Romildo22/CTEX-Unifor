@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Activitys.MainActivity"
+    android:id="@+id/frameLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- os botões -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/cc_image"
+                android:layout_width="0dp"
+                android:layout_height="345dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="14dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="8dp"
+                android:elevation="@dimen/elevacao_cursos"
+                android:onClick="ActivityCC"
+                app:layout_constraintBottom_toTopOf="@+id/ads_image"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.521"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/cc_img" />
+
+            <ImageView
+                android:id="@+id/ads_image"
+                android:layout_width="0dp"
+                android:layout_height="345dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="8dp"
+                android:elevation="@dimen/elevacao_cursos"
+                android:onClick="ActivityADS"
+                app:layout_constraintBottom_toTopOf="@+id/ec_image"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.555"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/cc_image"
+                app:srcCompat="@drawable/ads_img" />
+
+            <ImageView
+                android:id="@+id/ec_image"
+                android:layout_width="0dp"
+                android:layout_height="345dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="8dp"
+                android:elevation="@dimen/elevacao_cursos"
+                android:onClick="ActivityEC"
+                app:layout_constraintBottom_toTopOf="@+id/eca_image"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.555"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ads_image"
+                app:srcCompat="@drawable/ec_img" />
+
+            <ImageView
+                android:id="@+id/eca_image"
+                android:layout_width="0dp"
+                android:layout_height="345dp"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="18dp"
+                android:elevation="@dimen/elevacao_cursos"
+                android:onClick="ActivityECA"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.555"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/ec_image"
+                app:srcCompat="@drawable/eca_img" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+</FrameLayout>
